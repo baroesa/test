@@ -1,1 +1,16 @@
 
+{
+  "name": "testbot1",
+  "version": "1.0.0",
+  "description": "Sharing",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Gurei",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "request": "^2.83.0"
+  }
+}
